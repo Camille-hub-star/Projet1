@@ -18,5 +18,5 @@ pipeline {
                 echo 'Déploiement fictif terminé.'
             }
         }
-    }
+    
 }
